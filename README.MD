@@ -12,10 +12,12 @@ seguem abaixo.
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
+- Conteúdo gerado via ChatGPT: 
 
 
 ## 📚 Materiais
+
+
 
 
 
